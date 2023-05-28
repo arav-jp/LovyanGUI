@@ -1,4 +1,4 @@
-#include "lgui_common.hpp"
+#include "LGUI_common.hpp"
 
 namespace lgui
 {
